@@ -57,6 +57,7 @@ const sauceSchema = new mongoose.Schema(
       type: String,
       required: [true, 'Must provide a description'],
       trim: true,
+      unique: true,
     },
     ingredients: {
       type: String,

@@ -6,17 +6,19 @@ const handleCastErrorDB = (err) => {
 };
 
 const handleDuplicateErrorDB = (err) => {
-  const message = `You already have a sauce called ${err.keyValue.name}`;
+  const field = Object.keys(err.keyValue);
+  const value = Object.values(err.keyValue);
+  const message = `${field}: ${value}. Is a dupliate! Please use another value!`;
   return new AppError(message, 400);
 };
 
 const handleValidationErrorDB = (err) => {
-  const message = err;
+  const errors = Object.values(err.errors).map((el) => el.message);
+  const message = `Invalid input data. ${errors.join('. ')}`;
   return new AppError(message, 400);
 };
 
 const sendErrorDev = (err, res) => {
-  console.log(`From CLG: ${err.errors}`);
   res.status(err.statusCode).json({
     name: err.name,
     status: err.status,
