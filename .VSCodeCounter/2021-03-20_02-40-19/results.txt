@@ -1,0 +1,44 @@
+Date : 2021-03-20 02:40:19
+Directory : /Users/Alex/Desktop/hot-sauce-appv3
+Total : 15 files,  9183 codes, 78 comments, 90 blanks, all 9351 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          4 |      8,784 |          0 |          5 |      8,789 |
+| JavaScript |         11 |        399 |         78 |         85 |        562 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                  |         15 |      9,183 |         78 |         90 |      9,351 |
+| controllers                                                        |          3 |        174 |          5 |         27 |        206 |
+| models                                                             |          1 |         70 |         33 |         12 |        115 |
+| routes                                                             |          2 |         30 |          0 |         12 |         42 |
+| utils                                                              |          3 |         56 |          9 |         18 |         83 |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                           | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/Alex/Desktop/hot-sauce-appv3/.eslintrc.json                 | JSON       |         26 |          0 |          2 |         28 |
+| /Users/Alex/Desktop/hot-sauce-appv3/.prettierrc                    | JSON       |          5 |          0 |          1 |          6 |
+| /Users/Alex/Desktop/hot-sauce-appv3/app.js                         | JavaScript |         40 |         13 |         11 |         64 |
+| /Users/Alex/Desktop/hot-sauce-appv3/controllers/errorController.js | JavaScript |         51 |          1 |          9 |         61 |
+| /Users/Alex/Desktop/hot-sauce-appv3/controllers/sauceController.js | JavaScript |         93 |          4 |         17 |        114 |
+| /Users/Alex/Desktop/hot-sauce-appv3/controllers/userController.js  | JavaScript |         30 |          0 |          1 |         31 |
+| /Users/Alex/Desktop/hot-sauce-appv3/models/sauceModel.js           | JavaScript |         70 |         33 |         12 |        115 |
+| /Users/Alex/Desktop/hot-sauce-appv3/package-lock.json              | JSON       |      8,715 |          0 |          1 |      8,716 |
+| /Users/Alex/Desktop/hot-sauce-appv3/package.json                   | JSON       |         38 |          0 |          1 |         39 |
+| /Users/Alex/Desktop/hot-sauce-appv3/routes/sauceRoutes.js          | JavaScript |         17 |          0 |          7 |         24 |
+| /Users/Alex/Desktop/hot-sauce-appv3/routes/userRoutes.js           | JavaScript |         13 |          0 |          5 |         18 |
+| /Users/Alex/Desktop/hot-sauce-appv3/server.js                      | JavaScript |         29 |         18 |          5 |         52 |
+| /Users/Alex/Desktop/hot-sauce-appv3/utils/apiFeatures.js           | JavaScript |         41 |          4 |         12 |         57 |
+| /Users/Alex/Desktop/hot-sauce-appv3/utils/appError.js              | JavaScript |         10 |          5 |          5 |         20 |
+| /Users/Alex/Desktop/hot-sauce-appv3/utils/catchAsync.js            | JavaScript |          5 |          0 |          1 |          6 |
+| Total                                                              |            |      9,183 |         78 |         90 |      9,351 |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+

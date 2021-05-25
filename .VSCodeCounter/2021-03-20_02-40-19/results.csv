@@ -1,0 +1,17 @@
+"filename", "language", "JavaScript", "JSON", "comment", "blank", "total"
+"/Users/Alex/Desktop/hot-sauce-appv3/.eslintrc.json", "JSON", 0, 26, 0, 2, 28
+"/Users/Alex/Desktop/hot-sauce-appv3/.prettierrc", "JSON", 0, 5, 0, 1, 6
+"/Users/Alex/Desktop/hot-sauce-appv3/app.js", "JavaScript", 40, 0, 13, 11, 64
+"/Users/Alex/Desktop/hot-sauce-appv3/controllers/errorController.js", "JavaScript", 51, 0, 1, 9, 61
+"/Users/Alex/Desktop/hot-sauce-appv3/controllers/sauceController.js", "JavaScript", 93, 0, 4, 17, 114
+"/Users/Alex/Desktop/hot-sauce-appv3/controllers/userController.js", "JavaScript", 30, 0, 0, 1, 31
+"/Users/Alex/Desktop/hot-sauce-appv3/models/sauceModel.js", "JavaScript", 70, 0, 33, 12, 115
+"/Users/Alex/Desktop/hot-sauce-appv3/package-lock.json", "JSON", 0, 8715, 0, 1, 8716
+"/Users/Alex/Desktop/hot-sauce-appv3/package.json", "JSON", 0, 38, 0, 1, 39
+"/Users/Alex/Desktop/hot-sauce-appv3/routes/sauceRoutes.js", "JavaScript", 17, 0, 0, 7, 24
+"/Users/Alex/Desktop/hot-sauce-appv3/routes/userRoutes.js", "JavaScript", 13, 0, 0, 5, 18
+"/Users/Alex/Desktop/hot-sauce-appv3/server.js", "JavaScript", 29, 0, 18, 5, 52
+"/Users/Alex/Desktop/hot-sauce-appv3/utils/apiFeatures.js", "JavaScript", 41, 0, 4, 12, 57
+"/Users/Alex/Desktop/hot-sauce-appv3/utils/appError.js", "JavaScript", 10, 0, 5, 5, 20
+"/Users/Alex/Desktop/hot-sauce-appv3/utils/catchAsync.js", "JavaScript", 5, 0, 0, 1, 6
+"Total", "-", 399, 8784, 78, 90, 9351
